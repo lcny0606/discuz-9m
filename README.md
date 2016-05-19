@@ -1,6 +1,6 @@
 ﻿# Discuz -9m
 
-##LI Yang's  disucz  project 
+##LI Yang's  discuz  project 
 
 ####基于9秒社区改版的discuz主题模板，首页，贴子展示页等都经过设计，与原来相比有更丰富。
 
